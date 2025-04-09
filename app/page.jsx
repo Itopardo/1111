@@ -2,11 +2,6 @@
 "use client";
 import { useState } from "react";
 
-// ... (rest of the validated and styled code from canvas)
-
-"use client";
-import { useState } from "react";
-
 export default function CalculadoraMangas() {
   const [cantidad, setCantidad] = useState();
   const [largo, setLargo] = useState();
